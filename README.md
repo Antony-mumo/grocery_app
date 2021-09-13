@@ -47,8 +47,6 @@ It's also great for learning new fashion trends and how to dress tastefully in d
 
 ## Screen
 
-<img src="screen/screen1.png">
-
 <img src="screen/1.png">
 
 <img src="screen/2.png">
