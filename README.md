@@ -1,6 +1,6 @@
 # GroceryStore
 
-- [GroceryStore](https://ecstatic-mclean-878aa2.netlify.app) - Grocery Store Website (Demo)
+- [GroceryStore](https://ecstatic-mclean-878aa2.netlify.ap) - Grocery Store Website (Demo)
 
 # GroceryStore
 
@@ -15,9 +15,13 @@ App:  [https://ecstatic-mclean-878aa2.netlify.app/](https://ecstatic-mclean-878
 ## Screen (Content)
 
 ```
-Everything was made with a detail oriented style and followed by today's web trends. Clean coded & Layers are well-organized, carefully named, and grouped. The website and websites look amazing and it's already a great place to start. 
+Everything was made with a detail oriented style and followed by today's web trends. 
+Clean coded & Layers are well-organized, carefully named, and grouped. 
+The website and websites look amazing and it's already a great place to start. 
 
-One of the best things about this website is that it is focused on nurturing the skills of individuals interested in fashion design. No matter if you're a novice or an experienced designer, you will find dressing for your body type useful. It's also great for learning new fashion trends and how to dress tastefully in different colors without appearing tacky or cheap looking.
+One of the best things about this website is that it is focused on nurturing the skills of individuals interested in fashion design.
+No matter if you're a novice or an experienced designer, you will find dressing for your body type useful. 
+It's also great for learning new fashion trends and how to dress tastefully in different colors without appearing tacky or cheap looking.
 
 ```
 
