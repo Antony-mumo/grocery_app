@@ -43,8 +43,6 @@ One of the best things about this website is that it is focused on nurturing the
 
 ## Screen
 
-<img src="screen/screen1.png">
-
 <img src="screen/1.png">
 
 <img src="screen/2.png">
