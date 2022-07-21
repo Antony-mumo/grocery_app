@@ -1,6 +1,6 @@
 # GroceryStore
 
-- [GroceryStore](https://ecstatic-mclean-878aa2.netlify.ap) - Grocery Store Website (Demo)
+- [GroceryStore](https://ecstatic-mclean-878aa2.netlify.app) - Grocery Store Website (Demo)
 
 # GroceryStore
 
